@@ -20,7 +20,7 @@ const FirstPost = () => {
       <h2>
         <Link href="/">Back to home</Link>
       </h2>
-      <img src="/images/profile.jpg" alt="Kodi" />
+      <img src="/images/head.jpg" alt="Kodi" />
     </Layout>
   );
 };
